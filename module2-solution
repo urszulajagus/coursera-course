@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Setting Font Size</title>
+<style>
+
+body{
+
+  font-size: 100px;
+}
+
+
+
+</style>
+</head>
+<body>
+<div style="font-size: 2em;">Regular text</div>
+<div>2em text
+  <div>4em text
+    <div>2em again!</div>
+  </div>
+</div>
+</body>
+</html>
