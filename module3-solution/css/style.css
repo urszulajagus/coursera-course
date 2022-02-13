@@ -1,0 +1,85 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: whitesmoke;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/** Header **/
+#header-nav {
+	background-color: white;
+	border-radius: 0;
+	border: 3px solid black;
+}
+
+
+
+#brand-name {
+	font-size: 35px;
+	font-family: 'Oxygen',sans-serif;
+	font-weight: bold;
+	color: black;
+	margin-right: 50px;
+}
+
+#page-header {
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+#menu-logo {
+	width: 70px;
+	height: 70px;
+
+}
+
+#button-menuicon {
+	border: none;
+	background-color: #d6e7d6;
+}
+
+#button-menuicon:focus {
+	background-color: #d6feab;
+}
+
+#menu-list {
+	list-style: none;
+}
+
+#menu-contain {
+	border-style: none;
+
+}
+
+#menu1, #menu2, #menu3 {
+	text-decoration: none;
+	color: black;
+
+}
+
+/** Sections **/
+#chicken, #beef, #sushi {
+	font-size: 30px;
+	color: black;
+	padding: 3px;
+	background-color: yellowgreen;
+	
+}
+
+#chicken-sec, #beef-sec, #sushi-sec{
+	color: black;
+	padding: 10px;
+	height: auto;
+	margin-bottom: 25px;
+	background-color: yellowgreen;
+}
+
+/* Footer */
+#up1, #up2, #up3 {
+	text-decoration: none;
+	color: blue;
+}
